@@ -1,4 +1,4 @@
-# Covid-Tracker
+# Covid-Tracker 😷 
 
 ### This is a java based Covid Tracker App which shows the 
 ### -Confirmed Covid Cases
