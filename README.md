@@ -24,5 +24,4 @@ App Screens
 
 
 ## Credits
-
-<a href="covid19india.org">
+<a href="covid19india.org" />
