@@ -26,5 +26,5 @@ App Screens
 ## Credits
 <a href="covid19india.org" >
   </a>
-[covid19india.org](covid19india.org)<br/>
+[covid19india.org](https://www.covid19india.org)<br/>
 (https://www.google.com)
