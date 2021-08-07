@@ -24,7 +24,7 @@ App Screens
 
 
 ## Credits
-https://www.covid19india.org
+https://www.covid19india.org <br/>
 https://corona.lmao.ninja/
 
 
