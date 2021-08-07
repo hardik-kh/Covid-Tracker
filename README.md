@@ -21,3 +21,8 @@ App Screens
 | State Data       | Country Data         | 
 | ------------- | -----:|
 | <img src ="state_data.jpg" height = "600" width = "300">      | <img src ="country_data.jpg" height = "600" width = "300"> |
+
+
+## Credits
+
+<a href="covid19india.org">
