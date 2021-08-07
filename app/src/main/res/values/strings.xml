@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Covid-Tracker</string>
+    <!--Credits only-->
+    <string name="credits">
+        <b>covid19india.org</b> for India specific API.\n
+         <b>corona.lmao.ninja</b> for Global API.\n
+        <b>Flaticon</b> for social media icons.\n
+    </string>
+    <string name="libs"><b> Glide</b> for showing flag images.\n
+        <b>Eaze Graph</b> for showing Pie charts.\n
+        <b>Circle ImageView</b> to show image in \n a circular frame
+    </string>
+    <string name="version">v1.0.0</string>
+</resources>
